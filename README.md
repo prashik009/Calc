@@ -1,37 +1,34 @@
-<h1>Calculator App - Android Project</h1>
+# XNCoder/Calculator-Android
 
-This Android project is a simple calculator app that performs basic mathematical operations like addition, subtraction, multiplication, and division. The app is built using Java programming language and Android Studio.
-<h2>Features</h2>
-<ul>
-  <li>Addition</li>
-  <li>Subtraction</li>
-  <li>Multiplication</li>
-  <li>Division</li>
-  <li>Clear button</li>
-  <li>Error handling for division by zero</li>
-</ul>
-<h2>Installation</h2>
-<ol>
-  <li>Clone the repository using git clone https://github.com/XNCoders/Calc.git or download the ZIP file and extract it.</li>
-  <li>Open the project in Android Studio.</li>
-  <li>Build the project using Gradle.</li>
-  <li>Run the app on an Android device or emulator.</li>
-</ol>
-<h2>Usage</h2>
-<ol>
-  <li>Open the app.</li>
-  <li>Enter the first number using the number buttons.</li>
-  <li>Select the operation you want to perform using the corresponding button.</li>
-  <li>Enter the second number using the number buttons.</li>
-  <li>Press the equals button to perform the operation.</li>
-  <li>Press the clear button to clear the input fields and result.</li>
-</ol>
-<h2>Contributing</h2>
+## Overview
+XNCoder/Calculator-Android is a simple, lightweight calculator app developed in Java for Android. It provides basic mathematical operations like addition, subtraction, multiplication, and division. The app is designed to be user-friendly and efficient for everyday calculations.
 
-If you would like to contribute to this project, please fork the repository and submit a pull request.
-<h2>License</h2>
+## Features
+- **Basic Operations:** Perform addition, subtraction, multiplication, and division.
+- **Clear Functionality:** Easily clear all inputs and results with a clear button.
+- **Error Handling:** Gracefully handles division by zero with appropriate error messages.
 
-This project is licensed under the MIT License - see the LICENSE file for details.
-<h2>Tags</h2>
+## Installation
+To install and run the app on your Android device or emulator, follow these steps:
+1. Clone the repository:
+   git clone https://github.com/xn-coder/Calculator-Android
+2. Open the project in Android Studio.
+3. Build the project using Gradle.
+4. Run the app on an Android device or emulator.
 
-android, calculator, java, arithmetic operations, mobile app, open source.
+## Usage
+1. Launch the app on your device.
+2. Input numbers using the on-screen number pad.
+3. Choose the desired operation (addition, subtraction, multiplication, division).
+4. Input the second number.
+5. Tap the equals button to see the result.
+6. Use the clear button to reset everything and start a new calculation.
+
+## Contributing
+Contributions are welcome! Please fork the repository and submit a pull request with your changes.
+
+## About
+This project is developed by XNCoders as an open-source initiative to provide a simple and effective calculator app for Android users.
+
+## Contact
+For more information and support, please contact the repository owner.
